@@ -1,5 +1,7 @@
 # noAsyncTask
 ![GitHub repo size](https://img.shields.io/github/repo-size/FabianoSouzaPereira/noAsyncTask)
+![GitHub language count](https://img.shields.io/github/languages/count/FabianoSouzaPereira/noAsyncTask)
+![GitHub top language](https://img.shields.io/github/languages/top/FabianoSouzaPereira/noAsyncTask)</br>
 ### Async Task deprecated
 This class was deprecated in API level 30. Google suggest to use the standard java.util.concurrent or Kotlin concurrency utilities instead. Utility classes commonly useful in concurrent programming. This package includes a few small standardized extensible frameworks, as well as some classes that provide useful functionality and are otherwise tedious or difficult to implement. Here are brief descriptions of the main components.
 
